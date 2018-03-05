@@ -63,21 +63,22 @@ public final class R {
     public static final int callDuration=0x7f030003;
     public static final int callName=0x7f030004;
     public static final int callState=0x7f030005;
-    public static final int declineButton=0x7f030006;
-    public static final int hangupButton=0x7f030007;
-    public static final int imageView5=0x7f030008;
-    public static final int infoText=0x7f030009;
-    public static final int linearLayout=0x7f03000a;
-    public static final int localVideo=0x7f03000b;
-    public static final int loggedInName=0x7f03000c;
-    public static final int loginButton=0x7f03000d;
-    public static final int loginName=0x7f03000e;
-    public static final int numberInputLayout=0x7f03000f;
-    public static final int relativeLayout2=0x7f030010;
-    public static final int remoteUser=0x7f030011;
-    public static final int remoteVideo=0x7f030012;
-    public static final int stopButton=0x7f030013;
-    public static final int textView=0x7f030014;
+    public static final int changeCameraButton=0x7f030006;
+    public static final int declineButton=0x7f030007;
+    public static final int hangupButton=0x7f030008;
+    public static final int imageView5=0x7f030009;
+    public static final int infoText=0x7f03000a;
+    public static final int linearLayout=0x7f03000b;
+    public static final int localVideo=0x7f03000c;
+    public static final int loggedInName=0x7f03000d;
+    public static final int loginButton=0x7f03000e;
+    public static final int loginName=0x7f03000f;
+    public static final int numberInputLayout=0x7f030010;
+    public static final int relativeLayout2=0x7f030011;
+    public static final int remoteUser=0x7f030012;
+    public static final int remoteVideo=0x7f030013;
+    public static final int stopButton=0x7f030014;
+    public static final int textView=0x7f030015;
   }
   public static final class layout {
     public static final int callscreen=0x7f040000;

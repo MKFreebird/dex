@@ -2,6 +2,7 @@ package com.sinch.android.rtc.sample.video;
 
 
 import android.media.AudioManager;
+import android.media.Image;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -79,7 +80,7 @@ public class CallScreenActivity extends BaseActivity {
         mCallerName = (TextView) findViewById(R.id.remoteUser);
         mCallState = (TextView) findViewById(R.id.callState);
         ImageButton endCallButton = (ImageButton) findViewById(R.id.hangupButton);
-
+        ImageButton toggleCameraButton = (ImageButton) findViewById(R.id.changeCameraButton);
         endCallButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -154,6 +155,8 @@ public class CallScreenActivity extends BaseActivity {
         }
         finish();
     }
+
+
 
     private String formatTimespan(long timespan) {
         long totalSeconds = timespan / 1000;
