@@ -7,21 +7,21 @@
               android:background="@color/rementis_background">
 
     <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:orientation="vertical"
-            android:layout_weight="1"
-            android:background="@color/rementis_background">
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/background_dark"
+        android:orientation="vertical">
 
         <TextView
-                android:id="@+id/remoteUser"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_margin="10dp"
-                android:text=""
-                android:textColor="@color/rementis_blue"
-                android:textSize="28sp"/>
+            android:id="@+id/remoteUser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="10dp"
+            android:text=""
+            android:textColor="@color/rementis_blue"
+            android:textSize="28sp" />
 
         <TextView
             android:id="@+id/callState"
@@ -51,6 +51,7 @@
         android:layout_width="wrap_content"
         android:layout_height="0dp"
         android:layout_weight="3"
+        android:background="@android:color/background_dark"
         android:orientation="vertical"
         android:padding="0dip">
 
@@ -78,11 +79,11 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:background="@color/rementis_background">
+        android:background="@android:color/background_dark">
 
         <ImageButton
             android:id="@+id/hangupButton"
-            android:layout_width="150dp"
+            android:layout_width="match_parent"
             android:layout_height="50dp"
             android:layout_centerInParent="true"
             android:layout_marginLeft="40dp"

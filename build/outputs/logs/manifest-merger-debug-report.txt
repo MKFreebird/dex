@@ -51,16 +51,12 @@ uses-sdk
 ADDED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml:18:5-20:44
 INJECTED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml:18:5-20:44
 INJECTED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml:18:5-20:44
-INJECTED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml:18:5-20:44
-INJECTED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml:18:5-20:44
 	android:targetSdkVersion
 		ADDED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml:20:13-42
 		INJECTED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml
 		INJECTED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml
 	android:minSdkVersion
 		ADDED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml:19:13-38
-		INJECTED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml
-		INJECTED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml
 application
 ADDED from /home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/AndroidManifest.xml:22:5-41:19
 	android:label

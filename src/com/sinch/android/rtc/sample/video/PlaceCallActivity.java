@@ -1,7 +1,5 @@
 package com.sinch.android.rtc.sample.video;
 
-import com.sinch.android.rtc.calling.Call;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -11,6 +9,8 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.sinch.android.rtc.calling.Call;
 
 public class PlaceCallActivity extends BaseActivity {
 
