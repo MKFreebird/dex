@@ -1,0 +1,4 @@
+#Sun Mar 04 18:00:27 CET 2018
+base.0=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
