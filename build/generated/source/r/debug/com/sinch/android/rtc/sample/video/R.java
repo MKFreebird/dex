@@ -78,7 +78,6 @@ public final class R {
     public static final int remoteVideo=0x7f030012;
     public static final int stopButton=0x7f030013;
     public static final int textView=0x7f030014;
-    public static final int textView2=0x7f030015;
   }
   public static final class layout {
     public static final int callscreen=0x7f040000;

@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="__local_aars__:/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/libs/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT.jar:unspecified@jar">
+  <library name="__local_aars__://libs/sinch-android-rtc-3.8.0.jar:unspecified@jar">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/libs/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT.jar!/" />
     </CLASSES>
