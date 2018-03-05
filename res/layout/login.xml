@@ -13,8 +13,6 @@
         android:layout_height="wrap_content"
         android:layout_above="@+id/linearLayout"
         android:layout_gravity="center_vertical"
-        android:layout_toLeftOf="@+id/textView2"
-        android:layout_toStartOf="@+id/textView2"
         android:layout_weight="1"
         android:src="@drawable/ic_supervisor_account_white_24dp" />
 
@@ -83,7 +81,7 @@
             android:layout_marginBottom="30dp"
             android:layout_marginTop="30dp"
             android:layout_weight="1"
-            android:background="@color/rementis_blue"
+            android:background="@drawable/border_blue"
             android:minHeight="56dp"
             android:minWidth="132dp"
             android:text="Login"

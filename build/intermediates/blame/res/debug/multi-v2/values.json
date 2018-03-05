@@ -11,11 +11,11 @@
                         "startOffsets": "-1"
                     },
                     "to": {
-                        "startLines": "13",
+                        "startLines": "14",
                         "startColumns": "4",
-                        "startOffsets": "577",
+                        "startOffsets": "622",
                         "endColumns": "45",
-                        "endOffsets": "618"
+                        "endOffsets": "663"
                     }
                 },
                 {
@@ -26,29 +26,29 @@
                         "startOffsets": "-1,-1"
                     },
                     "to": {
-                        "startLines": "14,17",
+                        "startLines": "15,18",
                         "startColumns": "4,4",
-                        "startOffsets": "623,717",
-                        "endLines": "16,19",
+                        "startOffsets": "668,762",
+                        "endLines": "17,20",
                         "endColumns": "12,12",
-                        "endOffsets": "712,784"
+                        "endOffsets": "757,829"
                     }
                 },
                 {
                     "source": "/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,7,-1,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,4,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,293,-1,-1",
-                        "endColumns": "-1,-1,-1,-1,-1,-1,-1,-1,49,-1,-1",
-                        "endOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,338,-1,-1"
+                        "startLines": "-1,-1,12,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,444,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,44,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,484,-1,-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,102,154,195,237,286,330,384,432,482,532",
-                        "endColumns": "46,51,40,41,48,43,53,47,49,49,44",
-                        "endOffsets": "97,149,190,232,281,325,379,427,477,527,572"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,102,154,199,240,282,331,375,429,477,527,577",
+                        "endColumns": "46,51,44,40,41,48,43,53,47,49,49,44",
+                        "endOffsets": "97,149,194,235,277,326,370,424,472,522,572,617"
                     }
                 }
             ]

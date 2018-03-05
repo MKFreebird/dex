@@ -11,6 +11,7 @@ import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.TextView;
 
 import java.util.List;
@@ -26,9 +27,9 @@ public class IncomingCallScreenActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.incoming);
 
-        Button answer = (Button) findViewById(R.id.answerButton);
+        ImageButton answer = (ImageButton) findViewById(R.id.answerButton);
         answer.setOnClickListener(mClickListener);
-        Button decline = (Button) findViewById(R.id.declineButton);
+        ImageButton decline = (ImageButton) findViewById(R.id.declineButton);
         decline.setOnClickListener(mClickListener);
 
         mAudioPlayer = new AudioPlayer(this);

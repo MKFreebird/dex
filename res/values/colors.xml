@@ -10,6 +10,8 @@
     <color name="button_green">#2e7d32</color>
     <color name="button_green_text">#c8e6c9</color>
 
+    <color name="button_red">#932323</color>
+
     <color name="text_input">#b0bec5</color>
     <color name="highlight_area">#000000</color>
     <color name="footer">#455a64</color>
