@@ -80,7 +80,6 @@ public class CallScreenActivity extends BaseActivity {
         mCallerName = (TextView) findViewById(R.id.remoteUser);
         mCallState = (TextView) findViewById(R.id.callState);
         ImageButton endCallButton = (ImageButton) findViewById(R.id.hangupButton);
-        ImageButton toggleCameraButton = (ImageButton) findViewById(R.id.changeCameraButton);
         endCallButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {

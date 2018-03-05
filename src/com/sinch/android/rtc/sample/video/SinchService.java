@@ -16,6 +16,7 @@ import com.sinch.android.rtc.calling.Call;
 import com.sinch.android.rtc.calling.CallClient;
 import com.sinch.android.rtc.calling.CallClientListener;
 import com.sinch.android.rtc.video.VideoController;
+import com.sinch.android.rtc.video.VideoScalingType;
 
 public class SinchService extends Service {
 
@@ -53,6 +54,7 @@ public class SinchService extends Service {
                     .applicationSecret(APP_SECRET)
                     .environmentHost(ENVIRONMENT).build();
 
+            mSinchClient.getVideoController().setResizeBehaviour(VideoScalingType.ASPECT_FILL);
             mSinchClient.setSupportCalling(true);
             mSinchClient.startListeningOnActiveConnection();
 
