@@ -49,7 +49,7 @@
 
     <RelativeLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:layout_weight="3"
         android:orientation="vertical"
         android:padding="0dip">
@@ -62,13 +62,14 @@
             android:layout_alignParentTop="true"
             android:orientation="horizontal" />
 
+
         <RelativeLayout
             android:id="@+id/localVideo"
             android:layout_width="100dp"
             android:layout_height="150dp"
+            android:layout_alignParentEnd="true"
             android:layout_alignParentRight="true"
-            android:layout_alignParentTop="true"
-            android:background="@color/rementis_header"/>
+            android:layout_alignParentTop="true" />
 
     </RelativeLayout>
 

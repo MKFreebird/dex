@@ -6,9 +6,11 @@
                 {
                     "source": "/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/strings.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "45",
+                        "endOffsets": "97"
                     },
                     "to": {
                         "startLines": "14",
@@ -21,27 +23,30 @@
                 {
                     "source": "/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/styles.xml",
                     "from": {
-                        "startLines": "-1,-1",
-                        "startColumns": "-1,-1",
-                        "startOffsets": "-1,-1"
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,521",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "483,676"
                     },
                     "to": {
-                        "startLines": "15,18",
+                        "startLines": "15,22",
                         "startColumns": "4,4",
-                        "startOffsets": "668,762",
-                        "endLines": "17,20",
+                        "startOffsets": "668,970",
+                        "endLines": "21,24",
                         "endColumns": "12,12",
-                        "endOffsets": "757,829"
+                        "endOffsets": "965,1125"
                     }
                 },
                 {
                     "source": "/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/res/values/colors.xml",
                     "from": {
-                        "startLines": "-1,-1,12,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "-1,-1,4,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,444,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "-1,-1,44,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "-1,-1,484,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "9,10,12,16,5,15,4,6,3,7,2,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "344,391,444,584,197,535,153,239,105,293,55,490",
+                        "endColumns": "46,51,44,40,41,48,43,53,47,49,49,44",
+                        "endOffsets": "386,438,484,620,234,579,192,288,148,338,100,530"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",

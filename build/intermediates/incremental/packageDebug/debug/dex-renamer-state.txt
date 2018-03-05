@@ -1,4 +1,4 @@
-#Mon Mar 05 17:12:03 CET 2018
+#Mon Mar 05 18:08:12 CET 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -8,11 +8,11 @@ renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 base.5=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/12
-base.4=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/15
-base.3=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/16
-base.2=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/13
-base.1=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/14
-base.0=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/11
+base.4=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/17
+base.3=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/15
+base.2=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/16
+base.1=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/13
+base.0=/home/adje/Downloads/sinch-android-rtc-3.8.0-VIDEO-SNAPSHOT/samples/sinch-rtc-sample-video/build/intermediates/transforms/dexMerger/debug/14
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex
